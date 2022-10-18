@@ -16,7 +16,7 @@ A instalação segue como qualquer outro script lua logitech, tendo vários víd
 
 # Como utilizar e modificar:
 
-local timing: A velocidade na qual ira ser realizado o recuo vertical.
+local timing: A velocidade na qual ira ser realizado o recuo vertical.\n
 local key: Botao a ser pressionado para ligar e desligar o script.
 
 Quando o script estiver ligado, o capslock ira estar ativado, assim como quando estiver desligado. Isso para orientar e saber se o script esta ou não ativado.
